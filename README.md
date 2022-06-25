@@ -24,3 +24,5 @@ Nama:
 
 
 [Buka Link](https://www.google.com/)
+
+[Buka Facebook](https://www.facebook.com)
